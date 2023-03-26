@@ -1,0 +1,60 @@
+.score-card-border {
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.rules-btn {
+  background-color: #ffffff;
+  color: #223a5f;
+  font-family: 'Bree Serif';
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.things-unordered-list {
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.score-count {
+  font-family: 'Bree Serif';
+  color: #223a5f;
+  font-size: 25px;
+}
+
+.popup-btn {
+  text-align: right;
+  width: 100%;
+}
+
+.close-btn {
+  border: none;
+  background-color: transparent;
+  text-align: right;
+  width: 100%;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.popup-close-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.rules-image {
+  height: 300px;
+}
+
+.rock {
+  font-size: 25px;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
