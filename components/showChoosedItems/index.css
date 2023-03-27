@@ -1,0 +1,33 @@
+.choice {
+  height: 150px;
+  width: 150px;
+}
+
+.score-txt {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin: 5px;
+}
+
+.play-btn {
+  background-color: #ffffff;
+  color: #223a5f;
+  font-family: 'Bree Serif';
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.list-choice {
+  list-style-type: none;
+  width: 100%;
+  margin: 30px;
+  text-align: center;
+}
+
+.list-container {
+  display: flex;
+  justify-content: space-between;
+}
